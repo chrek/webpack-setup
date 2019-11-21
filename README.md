@@ -6,6 +6,8 @@ It could be used as the starting block for a project with features around ECMASc
 
 Webpack is used as a static module bundler for JavaScript applications.
 
+Although we have added a config file, webpack does not require a configuration file to bundle projects. 
+
 ## References
 
 1. [webpack](https://webpack.js.org/guides/)
