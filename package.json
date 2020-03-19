@@ -16,6 +16,7 @@
   },
   "dependencies": {
     "lodash": "^4.17.15",
-    "serialize-javascript": "^2.1.2"
+    "serialize-javascript": "^2.1.2",
+    "acorn": "^6.4.1"
   }
 }
